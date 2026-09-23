@@ -16,8 +16,8 @@ To simulate the functioning of a ticket counter that operates on a First-In-Firs
 ```java
 /*
 Program to functioning of a ticket counter that operates on a First-In-First-Out (FIFO)
-Developed by: CHARUKESH S
-RegisterNumber: 212224230044
+Developed by: Surya Prakash B
+RegisterNumber: 212224230281
 
 */
 
